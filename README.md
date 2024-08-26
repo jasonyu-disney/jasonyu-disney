@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+<img align="center" src="https://github.com/user-attachments/assets/2de79aff-b3b2-47a8-96f4-a80527327154">
+</p>
+<h1 align="center">Hello there 👋</h1>
 
-<!--
-**jasonyu-disney/jasonyu-disney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+This is Jason Yu from Hong Kong :)
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img align="center" src="https://github.com/user-attachments/assets/ea76de85-8d56-4949-977c-d5af1a1e4090">
+</p>
